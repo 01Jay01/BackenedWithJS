@@ -1,0 +1,16 @@
+{
+  "name": "backened",
+  "version": "1.0.0",
+  "description": "Learning Backened",
+  "keywords": [
+    "javascript",
+    "Backened"
+  ],
+  "license": "ISC",
+  "author": "Jay Kumar Chaurasia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
